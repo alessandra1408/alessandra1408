@@ -38,7 +38,7 @@
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandra1408&layout=compact&theme=radical)
 
 <h3>Onde me encontrar</h3>
 
