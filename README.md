@@ -1,3 +1,5 @@
+<h2>Eae, tudo bem? :) </h2>
+
 <h3>Sobre mim</h3>
 
 - 🤔 Apaixonada por pessoas e tecnologia
